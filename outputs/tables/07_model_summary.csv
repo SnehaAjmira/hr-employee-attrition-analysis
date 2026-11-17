@@ -1,0 +1,5 @@
+metric,value
+Training rows,1029.0
+Holdout rows,441.0
+Holdout ROC AUC,0.81
+Pseudo R-squared (McFadden),0.222

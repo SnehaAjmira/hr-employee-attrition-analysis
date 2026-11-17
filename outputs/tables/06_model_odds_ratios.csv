@@ -1,0 +1,13 @@
+feature,odds_ratio,ci_low,ci_high,p_value
+Works overtime,4.77,3.23,7.05,0.0
+No stock options,2.49,1.4,4.42,0.0019
+Travels frequently,2.34,1.51,3.64,0.0002
+Job level 1 (entry),2.19,1.32,3.63,0.0025
+Marital status: single,1.48,0.84,2.62,0.1765
+Distance from home (per mile),1.04,1.02,1.06,0.0007
+"Monthly income (per 1,000)",1.0,0.93,1.07,0.9493
+Age (per year),0.98,0.95,1.0,0.0738
+Years at company (per year),0.97,0.93,1.01,0.147
+"Work-life balance (per point, 1-4)",0.75,0.58,0.97,0.03
+"Environment satisfaction (per point, 1-4)",0.73,0.61,0.86,0.0003
+"Job satisfaction (per point, 1-4)",0.64,0.54,0.76,0.0

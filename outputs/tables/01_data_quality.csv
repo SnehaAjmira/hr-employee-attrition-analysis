@@ -1,0 +1,8 @@
+check_name,result
+Rows,1470
+Columns in source,35
+Duplicate employee IDs,0
+Null values in key fields,0
+"Constant columns dropped (EmployeeCount, Over18, StandardHours)",3 distinct values across 3 columns (1 each)
+Employees who left,237
+Overall attrition rate,16.1%

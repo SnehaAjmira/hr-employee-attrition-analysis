@@ -1,0 +1,11 @@
+job_level,overtime,employees,leavers,attrition_pct
+1,No overtime,387,61.0,15.8
+1,Overtime,156,82.0,52.6
+2,No overtime,388,26.0,6.7
+2,Overtime,146,26.0,17.8
+3,No overtime,155,19.0,12.3
+3,Overtime,63,13.0,20.6
+4,No overtime,73,2.0,2.7
+4,Overtime,33,3.0,9.1
+5,No overtime,51,2.0,3.9
+5,Overtime,18,3.0,16.7

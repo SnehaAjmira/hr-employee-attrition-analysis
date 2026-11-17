@@ -1,0 +1,47 @@
+factor,level,employees,leavers,attrition_pct,lift_vs_company
+Business travel,Non-Travel,150,12.0,8.0,0.5
+Business travel,Travel Frequently,277,69.0,24.9,1.55
+Business travel,Travel Rarely,1043,156.0,15.0,0.93
+Department,Human Resources,63,12.0,19.0,1.18
+Department,Research & Development,961,133.0,13.8,0.86
+Department,Sales,446,92.0,20.6,1.28
+Income quartile,Q1,368,108.0,29.3,1.82
+Income quartile,Q2,368,52.0,14.1,0.88
+Income quartile,Q3,367,39.0,10.6,0.66
+Income quartile,Q4,367,38.0,10.4,0.64
+Job level,1,543,143.0,26.3,1.63
+Job level,2,534,52.0,9.7,0.6
+Job level,3,218,32.0,14.7,0.91
+Job level,4,106,5.0,4.7,0.29
+Job level,5,69,5.0,7.2,0.45
+Job role,Healthcare Representative,131,9.0,6.9,0.43
+Job role,Human Resources,52,12.0,23.1,1.43
+Job role,Laboratory Technician,259,62.0,23.9,1.48
+Job role,Manager,102,5.0,4.9,0.3
+Job role,Manufacturing Director,145,10.0,6.9,0.43
+Job role,Research Director,80,2.0,2.5,0.16
+Job role,Research Scientist,292,47.0,16.1,1.0
+Job role,Sales Executive,326,57.0,17.5,1.08
+Job role,Sales Representative,83,33.0,39.8,2.47
+Job satisfaction (1 low to 4 high),1,289,66.0,22.8,1.42
+Job satisfaction (1 low to 4 high),2,280,46.0,16.4,1.02
+Job satisfaction (1 low to 4 high),3,442,73.0,16.5,1.02
+Job satisfaction (1 low to 4 high),4,459,52.0,11.3,0.7
+Marital status,Divorced,327,33.0,10.1,0.63
+Marital status,Married,673,84.0,12.5,0.77
+Marital status,Single,470,120.0,25.5,1.58
+Overtime,No,1054,110.0,10.4,0.65
+Overtime,Yes,416,127.0,30.5,1.89
+Stock option level,0,631,154.0,24.4,1.51
+Stock option level,1,596,56.0,9.4,0.58
+Stock option level,2,158,12.0,7.6,0.47
+Stock option level,3,85,15.0,17.6,1.09
+Tenure,1) 0-1 years,215,75.0,34.9,2.16
+Tenure,2) 2-3 years,255,47.0,18.4,1.14
+Tenure,3) 4-5 years,306,40.0,13.1,0.81
+Tenure,4) 6-10 years,448,55.0,12.3,0.76
+Tenure,5) 11+ years,246,20.0,8.1,0.5
+Work-life balance (1 low to 4 high),1,80,25.0,31.3,1.94
+Work-life balance (1 low to 4 high),2,344,58.0,16.9,1.05
+Work-life balance (1 low to 4 high),3,893,127.0,14.2,0.88
+Work-life balance (1 low to 4 high),4,153,27.0,17.6,1.09
